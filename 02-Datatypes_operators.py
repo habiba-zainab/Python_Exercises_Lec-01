@@ -68,3 +68,7 @@ print("Available: ", in_stock)
 print("=" * 30)
 
 # ----------------------------------------------------------
+
+# Q4: Take two numbers from the user and print:
+#    Sum, Difference, Product, Division, Remainder, Power.
+
