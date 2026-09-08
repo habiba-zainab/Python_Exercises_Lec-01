@@ -3,7 +3,7 @@
 ===========================================================
    LECTURE 01 - SET 02:  DATA-TYPES and OPERATORS
    Topics : Data-Types & Types of Operators
-   Total Questions :  
+   Total Questions :  09
 ============================================================
 
 """
