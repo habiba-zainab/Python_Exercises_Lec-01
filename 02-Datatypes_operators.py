@@ -11,4 +11,7 @@
 # PART A:    DATA-TYPES
 # ==========================================================
 
+# Q1: Create ONE variable of each data type:
+#    int, float, str, bool, None
+#    Print the Value and the Type of each one.
 
