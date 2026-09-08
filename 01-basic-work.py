@@ -75,3 +75,11 @@ print("After +10: " + str(counter))
 
 counter += 15
 print("After +15: " + str(counter))
+
+# ----------------------------------------------------------
+
+# Q6: Swap two variables without using a third variable.
+#    Start with: x = 5, y = 10
+#    After swap: x should be 10, y should be 5
+#    Print both before and after swapping.
+
