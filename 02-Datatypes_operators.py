@@ -110,3 +110,9 @@ print("a <= b :", a <= b)
 #    Take the age of a person and check if he/she is eligible 
 #    to vote (age >= 18) AND is a citizen (TRUE).
 
+age = int(input("Enter your age: "))
+is_citizen = True
+
+print("Eligible to vote?", age >= 18 and is_citizen)
+
+# ----------------------------------------------------------
