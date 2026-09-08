@@ -40,3 +40,8 @@ print("STRONG Password: Ch@racter_2026! (letters + digits + special chars)")
 # PART B:   VARIABLES
 # ==========================================================
 
+# Q4: Create variables to store your personal information
+#    Create: name (string), age (integar), height (float), 
+#    is_student (boolean).
+#    Print all variables with labels.
+
