@@ -153,3 +153,12 @@ print("Fahrenheit =" , fahrenheit)
 #    Take Principal, Rate and Time from the user.
 #    Formula: SI = (P * R * T) / 100.
 
+p = float(input("Enter principal: "))
+r = float(input("Enter rate: "))
+t = float(input("Enter time: "))
+
+simple_interest = (p * r * t) / 100
+
+print("Simple Interest = ", simple_interest)
+
+# ----------------------------------------------------------
