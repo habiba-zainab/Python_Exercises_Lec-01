@@ -18,3 +18,12 @@ print("=== WELCOME TO PYTHON ===  >>>  LET'S CODE!")
 
 # ----------------------------------------------------------
 
+# Q2: Create a simple name tag using different character 
+#      types in PYTHON's character set.
+
+print("+----------------------+")
+print("|  NAME: Habiba Zainab |")
+print("|  year: 2026          |")
+print("+----------------------+")
+
+# ----------------------------------------------------------
