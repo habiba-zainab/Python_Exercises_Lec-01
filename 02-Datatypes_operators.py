@@ -74,7 +74,7 @@ print("=" * 30)
 # ==========================================================
 
 
-# Q4: ARITHEMATIC OPERATOR
+# Q4: ARITHEMATIC OPERATORS
 #    Take two numbers from the user and print:
 #    Sum, Difference, Product, Division, Remainder, Power.
 
@@ -90,7 +90,7 @@ print("Power: ", num1 ** num2)
 
 # ----------------------------------------------------------
 
-# Q5: COMPARISON OPERATOR
+# Q5: COMPARISON OPERATORS
 #    Take two numbers and print the result of:
 #    == , != , > , < , >= , <= .
 
@@ -105,3 +105,8 @@ print("a >= b :", a >= b)
 print("a <= b :", a <= b)
 
 # ----------------------------------------------------------
+
+# Q6: LOGICAL OPERATORS
+#    Take the age of a person and check if he/she is eligible 
+#    to vote (age >= 18) AND is a citizen (TRUE).
+
