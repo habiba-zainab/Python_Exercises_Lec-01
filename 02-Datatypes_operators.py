@@ -29,4 +29,8 @@ print("NONE: ", my_none, "| Type: ", type(my_none))
 
 # ----------------------------------------------------------
 
-# 
+# Q2: Create a variable with value "100" (string). Convert it to:
+#    Integar    
+#    Float
+#    Print original and converted values with their types.
+
