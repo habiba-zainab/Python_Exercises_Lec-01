@@ -69,6 +69,11 @@ print("=" * 30)
 
 # ----------------------------------------------------------
 
+# ==========================================================
+# PART B:    OPERATORS
+# ==========================================================
+
+
 # Q4: Take two numbers from the user and print:
 #    Sum, Difference, Product, Division, Remainder, Power.
 
