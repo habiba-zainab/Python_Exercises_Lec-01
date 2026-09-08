@@ -98,3 +98,17 @@ print("After swap: x =", x, "y =", y)
 #    and price.
 #    Print them.
 
+brand = "BMW"
+model = "ALPINA XB7"
+year = 2026
+color = "Frozen ALPINA Green"
+price = 50,719,4168
+
+print("Car Details")
+print("Brand: ", brand)
+print("Model: ", model)
+print("Year: ", year)
+print("Color: ", color)
+print("Price: ", price)
+
+# ----------------------------------------------------------
