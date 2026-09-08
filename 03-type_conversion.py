@@ -29,3 +29,11 @@ c = 10 / 2
 
 print("10 / 2 =" , c)
 print("Type =" , type(c))
+
+# ----------------------------------------------------------
+
+# Q2: Add Integer and Boolean.
+#    a = 5 , b = True
+#    Find c = a + b, print c and type(c)
+#    Also try: 5 + False
+#    (HINT:  True becomes 1, False becomes 0)
