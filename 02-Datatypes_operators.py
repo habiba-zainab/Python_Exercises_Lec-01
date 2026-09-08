@@ -137,3 +137,8 @@ salary //= 3
 print("After //= 3 :" , salary)
 
 # ----------------------------------------------------------
+
+# Q8: Take a temperature in CELCIUS and convert it to 
+#    FARENHEIT.
+#    Formula: F = (C * 9/5) + 32
+
