@@ -3,7 +3,7 @@
 ===========================================================
    LECTURE 01 - SET 01 : BASICS OF PYTHON
    Topics : Character Set, Variables, Rules of Identifiers
-   Total Questions :
+   Total Questions :  08
 ============================================================
 
 """
