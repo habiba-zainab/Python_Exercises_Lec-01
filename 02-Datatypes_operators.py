@@ -148,3 +148,8 @@ fahrenheit = (celsius * 9 / 5) + 32
 print("Fahrenheit =" , fahrenheit)
 
 # ----------------------------------------------------------
+
+# Q9: Simple INTEREST CALCULATOR
+#    Take Principal, Rate and Time from the user.
+#    Formula: SI = (P * R * T) / 100.
+
