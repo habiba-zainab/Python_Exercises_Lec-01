@@ -93,3 +93,15 @@ print("Power: ", num1 ** num2)
 # Q5: COMPARISON OPERATOR
 #    Take two numbers and print the result of:
 #    == , != , > , < , >= , <= .
+
+a = float(input("Enter a: "))
+b = float(input("Enter b: "))
+
+print("a == b :", a == b)
+print("a != b :", a != b)
+print("a > b :", a > b)
+print("a < b :", a < b)
+print("a >= b :", a >= b)
+print("a <= b :", a <= b)
+
+# ----------------------------------------------------------
