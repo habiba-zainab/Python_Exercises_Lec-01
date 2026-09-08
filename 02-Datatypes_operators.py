@@ -138,7 +138,13 @@ print("After //= 3 :" , salary)
 
 # ----------------------------------------------------------
 
-# Q8: Take a temperature in CELCIUS and convert it to 
-#    FARENHEIT.
+# Q8: Take a temperature in CELSIUS and convert it to 
+#    FAHRENHEIT.
 #    Formula: F = (C * 9/5) + 32
 
+celsius = float(input("Enter temperature in Celsius: "))
+fahrenheit = (celsius * 9 / 5) + 32
+
+print("Fahrenheit =" , fahrenheit)
+
+# ----------------------------------------------------------
