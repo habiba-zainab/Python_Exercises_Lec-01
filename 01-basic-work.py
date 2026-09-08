@@ -117,3 +117,18 @@ print("Price: ", price)
 #    names. Store the valid ones as strings in variables and 
 #    print them wih explanation.
 
+valid1 = "user_age"
+valid2 = "_total"
+valid3 = "item2"
+
+print("VALID Variables")
+print(valid1, "- Letters and underscores allowed")
+print(valid2, "- Can start with an underscore")
+print(valid3, "- Numbers allowed (if not at start)")
+
+print("\nINVALID Variables")
+print("2items - Cannot start with a number")
+print("user-a - Hyphens not allowed")
+print("class - Reserved python keyword")
+
+# ----------------------------------------------------------
