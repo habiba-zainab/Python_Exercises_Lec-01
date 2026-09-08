@@ -53,3 +53,18 @@ print("As Float: ", num_float, "| Type: ", type(num_float))
 #   Is available (boolean)
 #   Print them in a formatted manner.
 
+name = "Laptop"
+quantity = 3
+price = 899.99
+in_stock = True
+
+print("=" * 30)
+print("     PRODUCT DETAILS")
+print("=" * 30)
+print("Item Name: ", name)
+print("Quantity: ", quantity)
+print("Price: ", price)
+print("Available: ", in_stock)
+print("=" * 30)
+
+# ----------------------------------------------------------
