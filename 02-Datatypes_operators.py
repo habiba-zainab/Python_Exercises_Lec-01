@@ -120,4 +120,20 @@ print("Eligible to vote?", age >= 18 and is_citizen)
 # Q7: ASSIGNMENT OPERATORS
 #    Start with salary = 20000
 #    Apply these one by one and print after each step:
-#    += 5000  then -= 2000  then = 2  then //= 3.
+#    += 5000  then -= 2000  then *= 2  then //= 3.
+
+salary = 20000
+
+salary += 5000
+print("After += 5000 :" , salary)
+
+salary -= 2000
+print("After -= 2000 :" , salary)
+
+salary *= 2
+print("After *= 2 :" , salary)
+
+salary //= 3
+print("After //= 3 :" , salary)
+
+# ----------------------------------------------------------
