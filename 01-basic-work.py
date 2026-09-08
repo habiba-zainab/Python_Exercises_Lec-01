@@ -112,3 +112,8 @@ print("Color: ", color)
 print("Price: ", price)
 
 # ----------------------------------------------------------
+
+# Q8: Create 3 Valid variable names and 3 Invalid variable 
+#    names. Store the valid ones as strings in variables and 
+#    print them wih explanation.
+
