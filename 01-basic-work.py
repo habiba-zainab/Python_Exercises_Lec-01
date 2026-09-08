@@ -56,3 +56,11 @@ print("Height: ", height)
 print("is_student: ", is_student)
 
 # ----------------------------------------------------------
+
+# Q5: Variable reassignment and tracking 
+#    Start with: counter = 0
+#    Increment counter by 5
+#    Increment counter by 10
+#    Increment counter by 15
+#    Print counter value after each increment.
+
