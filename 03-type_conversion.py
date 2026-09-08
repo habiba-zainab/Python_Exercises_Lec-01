@@ -18,3 +18,14 @@
 #    Also try: 10 / 2 and see the type.
 #    (HINT:  / always gives float)
 
+a = 10
+b = 4
+result = a / b
+
+print("Result =" , result)
+print("Type =" , type(result))
+
+c = 10 / 2
+
+print("10 / 2 =" , c)
+print("Type =" , type(c))
