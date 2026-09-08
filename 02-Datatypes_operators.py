@@ -116,3 +116,8 @@ is_citizen = True
 print("Eligible to vote?", age >= 18 and is_citizen)
 
 # ----------------------------------------------------------
+
+# Q7: ASSIGNMENT OPERATORS
+#    Start with salary = 20000
+#    Apply these one by one and print after each step:
+#    += 5000  then -= 2000  then = 2  then //= 3.
