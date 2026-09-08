@@ -102,7 +102,7 @@ brand = "BMW"
 model = "ALPINA XB7"
 year = 2026
 color = "Frozen ALPINA Green"
-price = 50,719,4168
+price = "5.07 Crore"
 
 print("Car Details")
 print("Brand: ", brand)
