@@ -35,3 +35,8 @@ print("WEAK Password:  abc123 (only letters + digits)")
 print("STRONG Password: Ch@racter_2026! (letters + digits + special chars)")
 
 # ----------------------------------------------------------
+
+# ==========================================================
+# PART B:   VARIABLES
+# ==========================================================
+
