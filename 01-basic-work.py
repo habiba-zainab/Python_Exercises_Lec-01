@@ -93,3 +93,8 @@ x, y = y, x
 print("After swap: x =", x, "y =", y)
 
 # ----------------------------------------------------------
+
+# Q7: Create variables for a car: brand, model, year, color, 
+#    and price.
+#    Print them.
+
