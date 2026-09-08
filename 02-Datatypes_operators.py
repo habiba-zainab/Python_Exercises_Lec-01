@@ -74,7 +74,8 @@ print("=" * 30)
 # ==========================================================
 
 
-# Q4: Take two numbers from the user and print:
+# Q4: ARITHEMATIC OPERATOR
+#    Take two numbers from the user and print:
 #    Sum, Difference, Product, Division, Remainder, Power.
 
 num1 = float(input("Enter first number: "))
@@ -88,3 +89,7 @@ print("Remainder: ", num1 % num2)
 print("Power: ", num1 ** num2)
 
 # ----------------------------------------------------------
+
+# Q5: COMPARISON OPERATOR
+#    Take two numbers and print the result of:
+#    == , != , > , < , >= , <= .
