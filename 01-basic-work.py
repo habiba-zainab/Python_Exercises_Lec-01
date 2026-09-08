@@ -83,3 +83,13 @@ print("After +15: " + str(counter))
 #    After swap: x should be 10, y should be 5
 #    Print both before and after swapping.
 
+x = 5
+y = 10
+
+print("Before swap: x =", x, "y =", y)
+
+x, y = y, x
+
+print("After swap: x =", x, "y =", y)
+
+# ----------------------------------------------------------
