@@ -34,3 +34,13 @@ print("NONE: ", my_none, "| Type: ", type(my_none))
 #    Float
 #    Print original and converted values with their types.
 
+num_str = "100"
+
+num_int = int(num_str)
+num_float = float(num_str)
+
+print("Original: ", num_str, "| Type: ", type(num_str))
+print("As Integer: ", num_int, "| Type: ", type(num_int))
+print("As Float: ", num_float, "| Type: ", type(num_float))
+
+# ----------------------------------------------------------
