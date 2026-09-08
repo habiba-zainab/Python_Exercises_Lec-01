@@ -37,3 +37,14 @@ print("Type =" , type(c))
 #    Find c = a + b, print c and type(c)
 #    Also try: 5 + False
 #    (HINT:  True becomes 1, False becomes 0)
+
+a = 5
+b = True
+result = a + b
+
+print("5 + True =" , result)
+print("Type =" , type(result))
+
+print("5 + False =" , 5 + False)
+
+# ----------------------------------------------------------
