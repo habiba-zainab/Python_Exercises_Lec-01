@@ -45,3 +45,14 @@ print("STRONG Password: Ch@racter_2026! (letters + digits + special chars)")
 #    is_student (boolean).
 #    Print all variables with labels.
 
+name = "Habiba Zainab"
+age = 18
+height = 5.4
+is_student = True
+
+print("Name: ", name)
+print("Age: ", age)
+print("Height: ", height)
+print("is_student: ", is_student)
+
+# ----------------------------------------------------------
