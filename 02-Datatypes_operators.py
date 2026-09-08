@@ -44,3 +44,12 @@ print("As Integer: ", num_int, "| Type: ", type(num_int))
 print("As Float: ", num_float, "| Type: ", type(num_float))
 
 # ----------------------------------------------------------
+
+# Q3: Create variables to store shopping data using different 
+#    data types:
+#   Product name (string)
+#   Quantity (integer)
+#   Price (float)
+#   Is available (boolean)
+#   Print them in a formatted manner.
+
