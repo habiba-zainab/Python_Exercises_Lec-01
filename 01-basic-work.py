@@ -64,3 +64,14 @@ print("is_student: ", is_student)
 #    Increment counter by 15
 #    Print counter value after each increment.
 
+counter = 0
+print("Initial: " + str(counter))
+
+counter += 5
+print("After +5: " + str(counter))
+
+counter += 10
+print("After +10: " + str(counter))
+
+counter += 15
+print("After +15: " + str(counter))
