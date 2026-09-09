@@ -66,3 +66,16 @@ print(f"After: price2 = {price2} (float)")
 # ----------------------------------------------------------
 #     STEP 05:    Calculate Item Totals
 # ----------------------------------------------------------
+
+print("\n--- Items Purchased ---")
+print(f"1. {item1_name}: ₹{price1} × {quantity1}")
+print(f"2. {item2_name}: ₹{price2} × {quantity2}")
+print(f"3. {item3_name}: ₹{price3} × 1")
+
+total1 = price1 * quantity1
+total2 = price2 * quantity2
+total3 = price3 * 1
+
+print(f"\nItem 1 Total: ₹{total1}")
+print(f"Item 2 Total: ₹{total2}")
+print(f"Item 3 Total: ₹{total3}")
