@@ -111,3 +111,8 @@ discount = 0
 if apply_discount:
     discount = subtotal * 0.10
     print(f"Member Discount (10%): -₹{discount}")
+
+# ----------------------------------------------------------
+#     STEP 09:    Calculate Amount After Discount
+# ----------------------------------------------------------
+
