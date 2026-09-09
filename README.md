@@ -49,3 +49,17 @@ This repository represents my first milestone in learning Python programming. It
     * `bool()`
 
 ---    
+
+## 📂 File Structure
+
+```text
+Python-Exercises_Lec-01/
+|
+├── 📄 01-basic-work.py              # Fundamentals: Variables & Identifiers
+├── 📄 02-Datatypes_operators.py     # Data Types & Operator Operations
+├── 📄 03-type_conversion.py         # Type Casting & Conversions
+├── 📄 04-Challenges.py              # Mini project challenge
+│
+├── 📜 LICENSE                       # MIT License
+├── 🚫 .gitignore                    # Git ignore rules
+└── 📖 README.md                     # Documentation
