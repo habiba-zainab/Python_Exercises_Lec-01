@@ -104,15 +104,15 @@ After completing Lecture 01, I can now:
 
 ### Current Lecture Status
 
-🟢 Lecture 01 — Python Fundamentals ✅ COMPLETED
-⚪ Lecture 02 — Happening soon
-⚪ Lecture 03 — Happening soon
-⚪ Lecture 04 — Happening soon
-⚪ Lecture 05 — Happening soon
-⚪ Lecture 06 — Happening soon
-⚪ Lecture 07 — Happening soon
-⚪ Lecture 08 — Happening soon
-⚪ Lecture 09 — Happening soon
+- [x] **Lecture 01** — Python Fundamentals ✅ COMPLETED
+- [ ] **Lecture 02** — Happening soon
+- [ ] **Lecture 03** — Happening soon
+- [ ] **Lecture 04** — Happening soon
+- [ ] **Lecture 05** — Happening soon
+- [ ] **Lecture 06** — Happening soon
+- [ ] **Lecture 07** — Happening soon
+- [ ] **Lecture 08** — Happening soon
+- [ ] **Lecture 09** — Happening soon
 
 ---
 
