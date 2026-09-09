@@ -100,3 +100,14 @@ print(f"Eligible for discount: {eligible_for_discount}")
 # ----------------------------------------------------------
 #     STEP 08:    Apply Member Discount
 # ----------------------------------------------------------
+
+print(f"\nIs Member: {is_member}")
+print(f"Eligible: {eligible_for_discount}")
+
+apply_discount = is_member and eligible_for_discount
+print(f"Apply Discount: {apply_discount}")
+
+discount = 0
+if apply_discount:
+    discount = subtotal * 0.10
+    print(f"Member Discount (10%): -₹{discount}")
