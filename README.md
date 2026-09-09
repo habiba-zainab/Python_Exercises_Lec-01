@@ -87,4 +87,9 @@ After completing Lecture 01, I can now:
    * Type out every example (no copy paste)
    * Experiment with different values
    * Break things intentionally to learn from errors
-   
+
+* 🐛 **Embrace Debugging**
+   * Errors are learning oppurtunities
+   * Read error messages carefully
+   * Use `print()` statements for debugging
+
