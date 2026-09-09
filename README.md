@@ -93,3 +93,9 @@ After completing Lecture 01, I can now:
    * Read error messages carefully
    * Use `print()` statements for debugging
 
+* 📝 **Document Learning**
+   * Add comments explaining logic
+   * Keep notes on tricky concepts
+   * Maintain this repository as a reference
+
+---
