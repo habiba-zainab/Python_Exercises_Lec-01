@@ -3,7 +3,7 @@
 ===========================================================
    LECTURE 01 - SET 03:  TYPE CONVERSION 
    Topics :  TYPE CONVERSION & TYPE CASTING
-   Total Questions :  
+   Total Questions :  06
 ============================================================
 
 """
@@ -81,3 +81,4 @@ print("bool('Hello') =", bool("Hello"))
 print("bool(0.0) =", bool(0.0))
 
 # ----------------------------------------------------------
+
