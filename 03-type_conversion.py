@@ -74,3 +74,10 @@ print("Type after:" , type(int(a)))
 #   Convert and print bool of:
 #   0 , 25 , "" (empty) , "Hello" , 0.0.
 
+print("bool(0) =", bool(0))
+print("bool(25) =", bool(25))
+print("bool('') =", bool(""))
+print("bool('Hello') =", bool("Hello"))
+print("bool(0.0) =", bool(0.0))
+
+# ----------------------------------------------------------
