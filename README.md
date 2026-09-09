@@ -62,7 +62,7 @@ Python-Exercises_Lec-01/
 │
 ├── 📜 LICENSE                       # MIT License
 ├── 🚫 .gitignore                    # Git ignore rules
-└── 📖 README.md                     # Documentation
+└── 📖 README.md                     # Documentation```
 
 ---
 
