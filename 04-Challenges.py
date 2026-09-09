@@ -158,3 +158,8 @@ print(f"Final bill (rounded): ₹{final_bill}")
 print("\n" + "=" * 35)
 print(f"TOTAL BILL: ₹{final_bill}")
 print("=" * 35)
+
+# ----------------------------------------------------------
+#     STEP 14:    Check Items Purchased
+# ----------------------------------------------------------
+
