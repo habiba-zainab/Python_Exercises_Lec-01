@@ -79,3 +79,7 @@ total3 = price3 * 1
 print(f"\nItem 1 Total: ₹{total1}")
 print(f"Item 2 Total: ₹{total2}")
 print(f"Item 3 Total: ₹{total3}")
+
+# ----------------------------------------------------------
+#     STEP 06:    Calculate Subtotal
+# ----------------------------------------------------------
