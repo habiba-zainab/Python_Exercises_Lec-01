@@ -91,3 +91,8 @@ print(f"\nSubtotal: ₹{subtotal}")
 # ----------------------------------------------------------
 #     STEP 07:    Check Discount Eligibility
 # ----------------------------------------------------------
+
+eligible_for_discount = subtotal > 50000
+
+print(f"\nIs amount > ₹50000? {eligible_for_discount}")
+print(f"Eligible for discount: {eligible_for_discount}")
