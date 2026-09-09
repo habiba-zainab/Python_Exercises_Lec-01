@@ -59,3 +59,13 @@ print("5 + False =" , 5 + False)
 #    First add WITHOUT casting, then add WITH int().
 #    Also print type before and after.
 
+a = input("Enter a: ")
+b = input("Enter b: ")
+
+print("Without casting:" , a + b)
+print("Type before:" , type(a))
+
+print("With casting:" , int(a) + int(b))
+print("Type after:" , type(int(a)))
+
+# ----------------------------------------------------------
