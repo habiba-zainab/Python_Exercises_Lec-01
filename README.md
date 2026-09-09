@@ -40,4 +40,4 @@ A curated collection of Python scripts, structured exercises, and modular projec
 
 </ul>
 
-    Numeric Types:  `int` , `float` , `complex`  
+    Numeric Types:  'int' , 'float' , 'complex'  
