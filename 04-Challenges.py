@@ -132,3 +132,6 @@ print(f"\nCoupon applied: ₹{coupon_value}")
 final_amount -= coupon_value
 print(f"After coupon: ₹{final_amount}")
 
+# ----------------------------------------------------------
+#     STEP 11:    Add Tax
+# ----------------------------------------------------------
