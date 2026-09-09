@@ -27,4 +27,11 @@ This repository represents my first milestone in learning Python programming. It
   * Variable declaration 
   * Identifier naming rules
   * Reserved keywords
+
+### 2️⃣ Data Types
+  * **Numeric Types:** 'int' , 'float' , 'complex'
+  * **Text Type:** 'str'
+  * **Boolean Type:** 'bool'
+  * Type identification using 'type()' function
+
   
