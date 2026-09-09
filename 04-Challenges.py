@@ -151,3 +151,7 @@ print(f"\nFinal amount (with decimals): ₹{final_amount}")
 final_bill = int(final_amount)
 print(f"Final bill (rounded): ₹{final_bill}")
 
+# ----------------------------------------------------------
+#     STEP 13:    Display Final Bill
+# ----------------------------------------------------------
+
