@@ -25,3 +25,11 @@ A curated collection of Python scripts, structured exercises, and modular projec
    <li> Identifier naming rules </li>
    <li> Reserved keywords </li>
 </ul>
+
+<h3><b> 2️⃣ Data Types </b></h3>
+<ul>
+   <li><b> Numeric Types:</b> int , float, complex </li>
+   <li><b> Text Type:</b> str </li>
+   <li><b> Boolean Type:</b> bool </li>
+   <li> Type identification using type() function </li>
+</ul>
