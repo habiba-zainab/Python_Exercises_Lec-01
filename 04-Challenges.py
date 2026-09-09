@@ -36,3 +36,12 @@ print(f"Customer ID: {customer_id}")
 #     STEP 03:    Set Prices & Quantities
 # ----------------------------------------------------------
 
+item1_price = "45000"        
+item2_price = "500.50"       
+quantity1 = 2
+quantity2 = 1
+tax_rate = 18.0
+price3 = 1200.0
+is_member = True
+has_coupon = False
+items_list = ["Laptop", "Mouse", "Keyboard"]
