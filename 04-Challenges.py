@@ -126,3 +126,9 @@ print(f"After discount: ₹{final_amount}")
 #     STEP 10:    Apply Coupon (if available)
 # ----------------------------------------------------------
 
+coupon_value = int(has_coupon) * 500
+print(f"\nCoupon applied: ₹{coupon_value}")
+
+final_amount -= coupon_value
+print(f"After coupon: ₹{final_amount}")
+
