@@ -29,3 +29,6 @@ item2_name = "Mouse"
 item3_name = "Keyboard"
 
 
+print(f"\nShop: {shop_name}")
+print(f"Customer: {customer_name}")
+print(f"Customer ID: {customer_id}")
