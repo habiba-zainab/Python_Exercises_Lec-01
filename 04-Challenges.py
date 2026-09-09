@@ -21,4 +21,11 @@ print("=" , 35)
 #     STEP 02:    Store Customer & Produuct Information
 # ----------------------------------------------------------
 
+shop_name = "QuickMart"
+customer_name = "Kevin"
+customer_id = "K3V!N"
+item1_name = "Laptop"
+item2_name = "Mouse"
+item3_name = "Keyboard"
+
 
