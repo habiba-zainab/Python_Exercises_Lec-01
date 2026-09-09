@@ -62,3 +62,7 @@ price2 = float(item2_price)
 
 print(f"After: price1 = {price1} (float)")
 print(f"After: price2 = {price2} (float)")
+
+# ----------------------------------------------------------
+#     STEP 05:    Calculate Item Totals
+# ----------------------------------------------------------
