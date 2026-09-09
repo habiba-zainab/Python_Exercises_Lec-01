@@ -14,8 +14,17 @@ A curated collection of Python scripts, structured exercises, and modular projec
 ---
 
 ## 🎓 About
-This repository represents my first milestone in learning Python programming. It contaiins practical exercises, code snippets, and challenges that helped me grasp the fundamental building blocks of Python.
+This repository represents my first milestone in learning Python programming. It contains practical exercises, code snippets, and challenges that helped me grasp the fundamental building blocks of Python.
 
 **Lecture Focus:** Core Python concepts including variables, data types, operators, and type conversions.
 
 ---
+
+## 📖 Topics Covered
+
+### 1️⃣ Python Basics
+  * Character sets
+  * Variable declaration 
+  * Identifier naming rules
+  * Reserved keywords
+  
