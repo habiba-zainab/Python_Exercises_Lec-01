@@ -75,3 +75,11 @@ After completing Lecture 01, I can now:
 * ✅ Combine multiple concepts to solve coding challenges
 
 ---
+
+## 💭 Practice Philosophy
+
+* 🔍 **Understand First, Code Second**
+   * Read documentation and examples
+   * Understand the "why" behind concepts
+   * Then write code to reinforce learning
+
