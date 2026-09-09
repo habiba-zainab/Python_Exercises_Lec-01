@@ -87,3 +87,7 @@ print(f"Item 3 Total: ₹{total3}")
 subtotal = total1 + total2 + total3
 
 print(f"\nSubtotal: ₹{subtotal}")
+
+# ----------------------------------------------------------
+#     STEP 07:    Check Discount Eligibility
+# ----------------------------------------------------------
