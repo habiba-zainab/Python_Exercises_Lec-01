@@ -40,3 +40,12 @@ This repository represents my first milestone in learning Python programming. It
   * **Assignment:** `=` , `+=` , `-=` , `*=` , `/=` , etc.
   * **Logical:**  `and` , `or` , `not`
 
+### 4️⃣ Type Conversion
+  * **Implicit conversion**  (automatic)
+  * **Explicit conversion**  (manual casting):
+    * `int()`
+    * `float()`
+    * `str()`
+    * `bool()`
+
+---    
