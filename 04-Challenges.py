@@ -155,3 +155,6 @@ print(f"Final bill (rounded): ₹{final_bill}")
 #     STEP 13:    Display Final Bill
 # ----------------------------------------------------------
 
+print("\n" + "=" * 35)
+print(f"TOTAL BILL: ₹{final_bill}")
+print("=" * 35)
