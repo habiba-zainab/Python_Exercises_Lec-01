@@ -83,3 +83,8 @@ After completing Lecture 01, I can now:
    * Understand the "why" behind concepts
    * Then write code to reinforce learning
 
+* 🛠️ **Hands-On Practice**
+   * Type out every example (no copy paste)
+   * Experiment with different values
+   * Break things intentionally to learn from errors
+   
