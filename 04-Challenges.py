@@ -170,3 +170,6 @@ print(f"\nItems purchased: {items_list}")
 print(f"Laptop purchased: {check_laptop}")
 print(f"Phone purchased: {check_phone}")
 
+# ----------------------------------------------------------
+#     STEP 15:    Thank You Message
+# ----------------------------------------------------------
