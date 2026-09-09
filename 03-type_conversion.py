@@ -53,3 +53,9 @@ print("5 + False =" , 5 + False)
 # ==========================================================
 # PART B:    TYPE CASTING (EXPLICIT)
 # ==========================================================
+
+# Q3: The INPUT BUG
+#    Take two numbers using input().
+#    First add WITHOUT casting, then add WITH int().
+#    Also print type before and after.
+
