@@ -83,3 +83,7 @@ print(f"Item 3 Total: ₹{total3}")
 # ----------------------------------------------------------
 #     STEP 06:    Calculate Subtotal
 # ----------------------------------------------------------
+
+subtotal = total1 + total2 + total3
+
+print(f"\nSubtotal: ₹{subtotal}")
