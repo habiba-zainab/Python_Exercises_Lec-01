@@ -45,3 +45,7 @@ price3 = 1200.0
 is_member = True
 has_coupon = False
 items_list = ["Laptop", "Mouse", "Keyboard"]
+
+print(f"\nItem 1: {item1_name} - ₹{item1_price}")
+print(f"Item 2: {item2_name} - ₹{item2_price}")
+print(f"Item 3: {item3_name} - ₹{price3}")
