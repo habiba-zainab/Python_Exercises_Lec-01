@@ -163,3 +163,10 @@ print("=" * 35)
 #     STEP 14:    Check Items Purchased
 # ----------------------------------------------------------
 
+check_laptop = "Laptop" in items_list
+check_phone = "Phone" in items_list
+
+print(f"\nItems purchased: {items_list}")
+print(f"Laptop purchased: {check_laptop}")
+print(f"Phone purchased: {check_phone}")
+
