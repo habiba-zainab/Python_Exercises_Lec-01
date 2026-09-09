@@ -146,3 +146,8 @@ print(f"After tax: ₹{final_amount}")
 #     STEP 12:    Convert to Final Bill
 # ----------------------------------------------------------
 
+print(f"\nFinal amount (with decimals): ₹{final_amount}")
+
+final_bill = int(final_amount)
+print(f"Final bill (rounded): ₹{final_bill}")
+
