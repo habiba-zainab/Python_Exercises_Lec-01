@@ -135,3 +135,9 @@ print(f"After coupon: ₹{final_amount}")
 # ----------------------------------------------------------
 #     STEP 11:    Add Tax
 # ----------------------------------------------------------
+
+tax = (final_amount * tax_rate) / 100
+print(f"\nTax ({tax_rate}%): +₹{tax}")
+
+final_amount += tax
+print(f"After tax: ₹{final_amount}")
