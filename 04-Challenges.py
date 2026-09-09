@@ -116,3 +116,9 @@ if apply_discount:
 #     STEP 09:    Calculate Amount After Discount
 # ----------------------------------------------------------
 
+final_amount = subtotal
+print(f"\nInitial amount: ₹{final_amount}")
+
+final_amount -= discount
+print(f"After discount: ₹{final_amount}")
+
