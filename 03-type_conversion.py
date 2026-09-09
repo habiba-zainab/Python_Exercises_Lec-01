@@ -69,3 +69,8 @@ print("With casting:" , int(a) + int(b))
 print("Type after:" , type(int(a)))
 
 # ----------------------------------------------------------
+
+# Q4: Anything to Bool
+#   Convert and print bool of:
+#   0 , 25 , "" (empty) , "Hello" , 0.0.
+
