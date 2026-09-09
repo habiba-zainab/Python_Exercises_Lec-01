@@ -1,4 +1,12 @@
 # Python_Exercises_Lec-01
-A curated collection of Python scripts, structured exercises, and modular projects demonstrating core programming concepts, clean code practices, and problem-solving. <br>
+A curated collection of Python scripts, structured exercises, and modular projects demonstrating core programming concepts, clean code practices, and problem-solving. 
 
-  
+---
+## 📋 Table of Contents
+  * [About]
+  * [Covered Topics]
+  * [File Structure]
+  * [Learning Outcomes]
+  * [Practice Philosophy]
+  * [Progress Tracking]
+---
