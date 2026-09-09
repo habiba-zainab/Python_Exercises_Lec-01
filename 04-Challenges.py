@@ -122,3 +122,7 @@ print(f"\nInitial amount: ₹{final_amount}")
 final_amount -= discount
 print(f"After discount: ₹{final_amount}")
 
+# ----------------------------------------------------------
+#     STEP 10:    Apply Coupon (if available)
+# ----------------------------------------------------------
+
