@@ -60,3 +60,18 @@ This repository represents my first milestone in learning Python programming. It
 | [`04-Challenges.py`](04-Challenges.py) | Simple Shopping Calculator | Mini Project |
 
 ---
+
+## 🎯 Learning Outcomes
+
+After completing Lecture 01, I can now:
+
+* ✅ Write syntactically correct Python code
+* ✅ Declare and initialize variables following naming conventions
+* ✅ Understand and use different data types appropriately
+* ✅ Identify data types using the `type()` function
+* ✅ Apply various operators to solve problems
+* ✅ Perform type conversions when needed
+* ✅ Debug basic type-related errors
+* ✅ Combine multiple concepts to solve coding challenges
+
+---
