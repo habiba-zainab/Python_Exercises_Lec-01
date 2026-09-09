@@ -7,6 +7,7 @@ A curated collection of Python scripts, structured exercises, and modular projec
   * About
   * Covered Topics
   * File Structure
+  * Practiced Files
   * Learning Outcomes
   * Practice Philosophy
   * Progress Tracking
@@ -62,7 +63,7 @@ Python-Exercises_Lec-01/
 │
 ├── 📜 LICENSE                       # MIT License
 ├── 🚫 .gitignore                    # Git ignore rules
-└── 📖 README.md                     # Documentation```
+└── 📖 README.md                     # Documentation
 
 ---
 
