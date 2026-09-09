@@ -3,7 +3,7 @@ A curated collection of Python scripts, structured exercises, and modular projec
 
 ---
 ## 📋 Table of Contents
-  * [About]
+  * About
   * [Covered Topics]
   * [File Structure]
   * [Learning Outcomes]
