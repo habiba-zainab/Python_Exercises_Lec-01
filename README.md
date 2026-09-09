@@ -64,6 +64,8 @@ Python-Exercises_Lec-01/
 ├── 🚫 .gitignore                    # Git ignore rules
 └── 📖 README.md                     # Documentation
 
+---
+
 ## 📂 Practiced Files
 | File | Concepts Practiced | Questions |
 | :--- | :--- | :---: |
@@ -71,3 +73,5 @@ Python-Exercises_Lec-01/
 | [`02-Datatypes_operators.py`](02-Datatypes_operators.py) | Data Types, Operators | 09 |
 | [`03-type_conversion.py`](03-type_conversion.py) | Type Conversion and Casting | 06 |
 | [`04-Challenges.py`](04-Challenges.py) | Simple Shopping Calculator | Mini Project |
+
+---
