@@ -1,8 +1,8 @@
 # Python_Exercises_Lec-01
 A curated collection of Python scripts, structured exercises, and modular projects demonstrating core programming concepts, clean code practices, and problem-solving. <br>
 
-<h2><b> 📋 Table of Contents </b></h2>
-<ul>
+ 📋 Table of Contents 
+
    <li> About </li>
    <li> Covered Topics </li>
    <li> File Structure </li>
@@ -28,7 +28,6 @@ A curated collection of Python scripts, structured exercises, and modular projec
 
 <h3><b> 2️⃣ Data Types </b></h3>
 <ul>
-   <li><b> Numeric Types:</b>  `int` , `float` , `complex`  </li>
    <li><b> Text Type:</b> `str` </li>
    <li><b> Boolean Type:</b> `bool` </li>
    <li> Type identification using `type()` function </li>
@@ -40,3 +39,5 @@ A curated collection of Python scripts, structured exercises, and modular projec
 
 
 </ul>
+
+    Numeric Types:  `int` , `float` , `complex`  
