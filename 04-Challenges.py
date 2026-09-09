@@ -141,3 +141,8 @@ print(f"\nTax ({tax_rate}%): +₹{tax}")
 
 final_amount += tax
 print(f"After tax: ₹{final_amount}")
+
+# ----------------------------------------------------------
+#     STEP 12:    Convert to Final Bill
+# ----------------------------------------------------------
+
