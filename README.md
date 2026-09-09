@@ -116,3 +116,7 @@ After completing Lecture 01, I can now:
 
 ---
 
+* **Completion Date:** 9/9/2026
+* **Difficulty Level:** ⭐⭐☆☆☆ (Beginner Friendly)
+
+---
