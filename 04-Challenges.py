@@ -53,3 +53,12 @@ print(f"Item 3: {item3_name} - ₹{price3}")
 # ----------------------------------------------------------
 #     STEP 04:    Convert String Prices to Numbers
 # ----------------------------------------------------------
+
+print("\n--- Converting Prices ---")
+print(f"Before: item1_price = '{item1_price}' (string)")
+
+price1 = float(item1_price)
+price2 = float(item2_price)
+
+print(f"After: price1 = {price1} (float)")
+print(f"After: price2 = {price2} (float)")
