@@ -33,5 +33,10 @@ This repository represents my first milestone in learning Python programming. It
   * **Text Type:** `str`
   * **Boolean Type:** `bool`
   * Type identification using `type()` function
-  
+
+### 3️⃣ Operators
+  * **Arithematic:** `+` , `-` , `*` , `/` , `//` , `%` , `**`
+  * **Comparison:** `==` , `!=` , `>` , `<` , `>=` , `<=`
+  * **Assignment:** `=` , `+=` , `-=` , `*=` , `/=` , etc.
+  * **Logical:**  `and` , `or` , `not`
 
