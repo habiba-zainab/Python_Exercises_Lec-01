@@ -67,6 +67,7 @@ Python-Exercises_Lec-01/
 ---
 
 ## 📂 Practiced Files
+
 | File | Concepts Practiced | Questions |
 | :--- | :--- | :---: |
 | [`01-basic-work.py`](01-basic-work.py) | Character Set, Variables, Rules of Identifiers | 08 |
